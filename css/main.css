@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 20px 0 0 20px;
+}
+
+td {
+    border: 1px solid #000;
+    width: 40px;
+    height: 40px;
+}
+
+table {
+    display: inline-block;
+    vertical-align: top;
+    border-collapse: collapse;
+    margin: 20px;
+}
+
+caption {
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.boom {
+    background: url(../img/booom.png) no-repeat;
+    background-size: contain;
+}
+
+.ship {
+    background: url(../img/ufo.png) no-repeat;
+    background-size: contain;
+}
+
+.miss {
+    background: url(../img/miss.png) no-repeat;
+    background-size: contain;
+}
